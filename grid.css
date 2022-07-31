@@ -3,9 +3,10 @@ h1 {
   font-family: verdana;
   font-size: 300%;
 }
-h2 {font-family: fantasy;
+h2 {font: papyrus;
  color: white;
   text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+  z-index: -1;
 }
 h4{font-family: fantasy;
 }
